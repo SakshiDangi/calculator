@@ -1,0 +1,33 @@
+html, body{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button{
+    padding: 20px;
+    width: 60px;
+    margin: 3px 3px;
+    border: 2px solid black;
+    border-radius: 40px;
+    cursor: pointer;
+    background-color: rgb(215, 224, 240);
+}
+
+.row{
+    margin: 12px 0:
+}
+
+.row-input{
+    font-size: 18px;
+    padding: 15px 18px;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.flex-box{
+    border: 2px solid black;
+    justify-content: center;
+}
+
+
